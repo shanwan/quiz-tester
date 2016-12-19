@@ -3,7 +3,7 @@ This script will test the game logic of your multiple choice quiz.
 
 To use it you will need to include it in your html file after you main quiz script.
 
-** Do not open quiz.js until you're done with your implementation in `myQuiz.js`. For all purposes, just ignore this file - it's there to ensure the tests actually work. **
+** Do not open quiz.js until you're done with your implementation in 'myQuiz.js'. For all purposes, just ignore this file - it's there to ensure the tests actually work. **
 
 You will need to declare the following functions in the global scope:
 
