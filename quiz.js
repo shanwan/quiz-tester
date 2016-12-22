@@ -55,7 +55,7 @@ function playTurn (choice) {
     }
   }
   ++quiz.currentQuestion
-  if (quiz.currentQuestion === numberOfQuestions()) { 
+  if (quiz.currentQuestion === numberOfQuestions()) {
     quiz.isGameOver = true
   }
   return correct
